@@ -1,4 +1,6 @@
-｛ "versionCode": 30,
-  "version": "v10.1.2",
-  "zipUrl": "https://raw.githubusercontent.com/mostsky/most-vip/main/莫晨一键隐藏模块v10.1.2（vip版本）.zip",
-  "changelog": "https://raw.githubusercontent.com/mostsky/most-vip/main/isvip.md"｝
+{
+  "version": "v10.3.0",
+  "versionCode": 40,
+  "zipUrl": "https://github.com/mostsky/most-vip/releases/download/v10.2.8/module-v10.2.8.zip",
+  "changelog": "• 修复全机型兼容\n• 优化Web面板守护\n• SuSFS配置自动同步\n• 开机秒启不卡顿"
+}
