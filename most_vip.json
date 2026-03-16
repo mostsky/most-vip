@@ -1,6 +1,7 @@
 {
-  "version": "v10.3.0",
-  "versionCode": 40,
-  "zipUrl": "https://github.com/mostsky/most-vip/releases/download/v10.2.8/module-v10.2.8.zip",
-  "changelog": "• 修复全机型兼容\n• 优化Web面板守护\n• SuSFS配置自动同步\n• 开机秒启不卡顿"
+  "version": "v10.2.8",
+  "versionCode": 34,
+  "zipUrl": "https://raw.githubusercontent.com/mostsky/most-vip/main/莫晨一键隐藏模块v10.3.0（VIP版本）.zip",
+  "changelog": "v10.2.8 VIP版｜①修复UI配置失败问题 ②新增隐藏APK功能 ③更新一键配置SuS路径脚本 ④MT管理器路径改为莫晨APK管理文件夹 ⑤适配春秋检测apk2.8.3版本"
 }
+
